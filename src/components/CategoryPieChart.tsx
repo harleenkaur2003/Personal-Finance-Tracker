@@ -61,12 +61,14 @@ export default function CategoryPieChart({ transactions }: Props) {
               outerRadius={100}
               label
             >
-              {data.map((entry, index) => (
-                <Cell
-                  key={entry.name}
-                  fill={CATEGORY_COLORS[entry.name] || '#d1d5db'}
-                />
-              ))}
+              {data.map((entry) => (
+  <Cell
+    key={entry.name}
+    fill={CATEGORY_COLORS[entry.name] || '#d1d5db'}
+  />
+))}
+
+
             </Pie>
             <Tooltip />
             <Legend />
