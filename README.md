@@ -76,7 +76,7 @@ src/
 
 
 ##  Screenshots
-![Screenshot (321)](http![Screenshot (322)](https://github.com/user-attachments/assets/41303438-3f34-454a-9a16-7a05a0628c02)
+![Screenshot (321)](https://github.com/user-attachments/assets/41303438-3f34-454a-9a16-7a05a0628c02)
 
 ![Screenshot (322)](https://github.com/user-attachments/assets/5db02c4f-2842-481d-a901-bc4d13a2e815)
 
