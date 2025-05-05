@@ -75,6 +75,10 @@ src/
 ```
 
 
+##  Upcoming Enhancements : 
+CI/CD pipeline integration using github actions is planned and will be added soon.
+
+
 ##  Screenshots
 
 ![Screenshot (321)](https://github.com/user-attachments/assets/621924d5-8b7d-433c-8179-c1b88d9ff7cf)
