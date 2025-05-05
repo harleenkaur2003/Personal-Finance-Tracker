@@ -1,7 +1,7 @@
 #  Personal Finance Tracker
 
 A modern web application to track your personal expenses, budgets, and spending insights — built with **Next.js 15**, **React 19**, **MongoDB**, **Recharts**, and **shadcn/ui**.
-
+> Upcoming enhancements : CI/CD pipeline integration using github actions is planned and will be added soon.
 
 ##  Features
 
@@ -73,10 +73,6 @@ src/
 ├── styles/               # global.css
 ├── types/                # TypeScript interfaces
 ```
-
-
-##  Upcoming Enhancements : 
-CI/CD pipeline integration using github actions is planned and will be added soon.
 
 
 ##  Screenshots
